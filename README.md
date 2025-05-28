@@ -36,25 +36,34 @@
 
 ## 🛠️ My Tech Stack
 
-**Query Languages:**  
-- `SQL` (Oracle, SQL Server, PostgreSQL, MySQL, Trino, Presto, SingleStore)  
-- `KQL`, `MQL`, `JQL`
+### 🧑‍💻 Query & Programming Languages
+- **Query Languages**: `SQL`, `KQL`, `MQL`, `JQL`
+- **Programming**: `Python` (Pandas, NumPy, Matplotlib, Seaborn ...)
+- **Automation & Scraping**: `Selenium`, `BeautifulSoup`
+- **Web Basic Knowledge**: `HTML`, `CSS`
 
-**Programming:**  
-- `Python` (Pandas, NumPy, Matplotlib, Seaborn)  
-- `Selenium`, `BeautifulSoup` (Automation & Scraping)
+### ⚙️ Data Engineering & Workflow
+- `Apache Spark`, `Apache Airflow`
+- `DBT`, `Supabase`
 
-**Data Engineering & Automation:**  
-- `Apache Airflow`, `PySpark`
+### 📊 Business Intelligence & Visualization
+- `Power BI` (Power BI Desktop, Power BI Services, Power BI Report Server)
+- `Looker Studio`, `Apache Superset`, `Metabase`
 
-**Data Visualization & BI Tools:**  
-- `Power BI`, `Apache Superset`, `Looker Studio`
+### 🛢️ Databases & Data Platforms
+- **SQL-based**: `Oracle`, `SQL Server`, `PostgreSQL`, `Presto`, `Trino`, `MySQL`, `SingleStoreDB`, `Google BigQuery`
+- **NoSQL**: `MongoDB`
 
-**Databases & Data Platforms:**  
-- `Oracle`, `SQL Server`, `Trino`, `Presto`, `PostgreSQL`, `MongoDB`, `MySQL`, `SingleStore`
+### 🖌️ Design & Documentation Tools
+- `Figma`, `DBDocs`, `Draw.io`, `Miro`
 
-**Others:**  
-- Basic understanding of `HTML`, `CSS`
+### 🧾 Office Productivity
+- **Microsoft Office**: `Excel`, `Word`, `PowerPoint`  
+- **Google Workspace**: `Google Sheets`, `Google Docs`, `Slides`, `Jamboard`  
+- **Web Analytics**: `GA4` , `SmartLook`
+
+### 🔧 Others
+- `Statistics`, `Jira`, `Confluence`, `Trello`, `Notion`, `VBA`, `Visual Studio`, `Navicat`
 
 ---
 
