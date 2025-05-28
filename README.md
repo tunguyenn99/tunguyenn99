@@ -30,7 +30,7 @@
 - 🧪 A/B testing & conversion optimization  
 - 📊 Interactive dashboards & business reports  
 - 🔄 Automating data pipelines with **Apache Airflow**  
-- 💡 Delivering insights from large-scale datasets with **Spark**
+- 💡 Delivering insights from large-scale datasets
 
 ---
 
