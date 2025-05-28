@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=1AAB40&width=800&lines=Data+Analyst+%7C+BI+Engineer+%7C+Analytics+Engineer;Ecommerce+%7C+Retail+%7C+Customer+Behavior+Analytics;SQL+%7C+Python+%7C+Airflow+%7C+Power+BI+%7C+Looker+Studio;Always+Exploring+Customer+Journeys](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=500&color=1AAB40&width=800&lines=Data+Analyst+%7C+BI+Engineer+%7C+Analytics+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+Looker+Studio;Always+Learning+and+Building)"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=500&color=1AAB40&width=800&lines=Data+Analyst+%7C+BI+Engineer+%7C+Analytics+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+Looker+Studio;Always+Learning+and+Exploring+Interesting+Things"/>
 </p>
 
 ---
