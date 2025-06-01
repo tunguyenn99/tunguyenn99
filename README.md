@@ -45,7 +45,7 @@
 ### ⚙️ Data Engineering & Workflow
 - `Apache Spark`, `Apache Airflow`
 - `DBT`, `Supabase`
-- `Airbyte`
+- `Airbyte`, `Fivetran`
 
 ### 📊 Business Intelligence & Visualization
 - `Power BI` (Power BI Desktop, Power BI Services, Power BI Report Server)
