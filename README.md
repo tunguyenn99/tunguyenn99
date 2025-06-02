@@ -48,12 +48,13 @@
 - `Airbyte`, `Fivetran`
 
 ### 📊 Business Intelligence & Visualization
-- `Power BI` (Power BI Desktop, Power BI Services, Power BI Report Server)
+- `Power BI` (Power BI Desktop, Power BI Services, Power BI Report Server, Power BI Embed)
 - `Looker Studio`, `Apache Superset`, `Metabase`
 
 ### 🛢️ Databases & Data Platforms
 - **SQL-based**: `Oracle`, `SQL Server`, `PostgreSQL`, `Presto`, `Trino`, `MySQL`, `SingleStoreDB`, `Google BigQuery`
 - **NoSQL**: `MongoDB`
+- **Platform**: `GCP`, `Supabase`, `Azure`, `Snowflakes`, `Databricks`
 
 ### 🖌️ Design & Documentation Tools
 - `Figma`, `DBDocs`, `Draw.io`, `Miro`
