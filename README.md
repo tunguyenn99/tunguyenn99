@@ -38,34 +38,42 @@
 
 ### 🧑‍💻 Query & Programming Languages
 - **Query Languages**: `SQL`, `KQL`, `MQL`, `JQL`
-- **Programming**: `Python` (Pandas, NumPy, Matplotlib, Seaborn ...)
-- **Automation & Scraping**: `Selenium`, `BeautifulSoup`
+- **Programming**: `Python`
 - **Web Basic Knowledge**: `HTML`, `CSS`
 
 ### ⚙️ Data Engineering & Workflow
-- `Apache Spark`, `Apache Airflow`
-- `DBT`, `Supabase`
-- `Airbyte`, `Fivetran`
+- **Data processing**: `Apache Spark`
+- **ELT Layer**: `DBT`, `DLT`
+- **Orchestration**: `Apache Airflow`, `Astronomer Cosmos`, `Dagster`
+- **Data Ingestion**: `Airbyte`, `Fivetran`
+- **Automation & Scraping**: `Selenium`, `BeautifulSoup`
 
 ### 📊 Business Intelligence & Visualization
-- `Power BI` (Power BI Desktop, Power BI Services, Power BI Report Server, Power BI Embed)
-- `Looker Studio`, `Apache Superset`, `Metabase`
+- `Power BI`: Power BI Desktop, Power BI Services, Power BI Report Server, Power BI Embed
+- `Looker Studio`
+- `Apache Superset`
+- `Metabase`
 
 ### 🛢️ Databases & Data Platforms
 - **SQL-based**: `Oracle`, `SQL Server`, `PostgreSQL`, `Presto`, `Trino`, `MySQL`, `SingleStoreDB`, `Google BigQuery`
 - **NoSQL**: `MongoDB`
-- **Platform**: `GCP`, `Supabase`, `Azure`, `Snowflakes`, `Databricks`
+- **Platform**: `GCP`, `Supabase`, `Azure`, `Snowflakes`, `Databricks`, `Supabase`
+
+### 🧠 Collaboration & Project Management
+- `Jira`, `Confluence`, `Trello`, `Notion`
 
 ### 🖌️ Design & Documentation Tools
 - `Figma`, `DBDocs`, `Draw.io`, `Miro`
 
 ### 🧾 Office Productivity
-- **Microsoft Office**: `Excel`, `Word`, `PowerPoint`  
+- **Microsoft Office**: `Excel`, `Word`, `PowerPoint`, `VBA`  
 - **Google Workspace**: `Google Sheets`, `Google Docs`, `Slides`, `Jamboard`  
 - **Web Analytics**: `GA4` , `SmartLook`
 
 ### 🔧 Others
-- `Statistics`, `Jira`, `Confluence`, `Trello`, `Notion`, `VBA`, `Visual Studio`, `Navicat`
+- `VS Code`, `PyCharm`, `Jupyter`
+- `Navicat`, `DBeaver`
+- `Visual Studio`
 
 ---
 
