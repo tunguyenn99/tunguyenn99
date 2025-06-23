@@ -44,7 +44,7 @@
 ### ⚙️ Data Engineering & Workflow
 - **Data processing**: `Apache Spark`
 - **ELT Layer**: `DBT`, `DLT`
-- **Orchestration**: `Apache Airflow`, `Astronomer Cosmos`, `Dagster`
+- **Orchestration**: `Apache Airflow`, `Astronomer Cosmos`, `Dagster`, `Kestra`
 - **Data Ingestion**: `Airbyte`, `Fivetran`
 - **Automation & Scraping**: `Selenium`, `BeautifulSoup`
 
