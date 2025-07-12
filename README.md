@@ -57,7 +57,7 @@
 ### 🛢️ Databases & Data Platforms
 - **SQL-based**: `Oracle`, `SQL Server`, `PostgreSQL`, `Presto`, `Trino`, `MySQL`, `SingleStoreDB`, `Google BigQuery`
 - **NoSQL**: `MongoDB`
-- **Platform**: `GCP`, `Supabase`, `Azure`, `Snowflakes`, `Databricks`, `Supabase`
+- **Platform**: `GCP`, `Supabase`, `Azure`, `Snowflakes`, `Databricks`
 
 ### 🧠 Collaboration & Project Management
 - `Jira`, `Confluence`, `Trello`, `Notion`
