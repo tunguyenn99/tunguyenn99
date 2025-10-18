@@ -55,9 +55,9 @@
 - `Metabase`
 
 ### 🛢️ Databases & Data Platforms
-- **SQL-based**: `Oracle`, `SQL Server`, `PostgreSQL`, `Presto`, `Trino`, `MySQL`, `SingleStoreDB`, `Google BigQuery`
+- **SQL-based**: `Oracle`, `SQL Server`, `PostgreSQL`, `Presto`, `Trino`, `MySQL`, `SingleStoreDB`, `Google BigQuery`, `Redshift`
 - **NoSQL**: `MongoDB`
-- **Platform**: `GCP`, `Supabase`, `Azure`, `Snowflakes`, `Databricks`
+- **Platform**: `GCP`, `Supabase`, `Azure`, `Snowflakes`, `Databricks`, `AWS`
 
 ### 🧠 Collaboration & Project Management
 - `Jira`, `Confluence`, `Trello`, `Notion`
@@ -71,7 +71,7 @@
 - **Web Analytics**: `GA4` , `SmartLook`
 
 ### 🔧 Others
-- `VS Code`, `PyCharm`, `Jupyter`
+- `VS Code`, `PyCharm`, `Jupyter`, `Cloud9`
 - `Navicat`, `DBeaver`
 - `Visual Studio`
 
