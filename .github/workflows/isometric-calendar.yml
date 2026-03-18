@@ -21,8 +21,8 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year # Options: day, week, month, half-year, year
-          outputs: |
-            dist/github-isometric-calendar.svg
+          filename: dist/github-isometric-calendar.svg
+          output_action: none
           
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
@@ -31,6 +31,5 @@ jobs:
           build_dir: dist
           commit_message: "Build the City [bot]"
           allow_empty_commit: true
-          jekyll: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
