@@ -2,7 +2,7 @@ name: Generate Isometric Calendar
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Chạy vào 0h mỗi ngày
+    - cron: "0 0 * * *" # Runs at 00:00 UTC every day
   workflow_dispatch:
 
 jobs:
@@ -22,7 +22,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year # Options: day, week, month, half-year, year
           filename: github-isometric-calendar.svg
-          config_output: svg 
+          output_action: none 
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Push to Output Branch
@@ -31,5 +31,7 @@ jobs:
           target_branch: output
           build_dir: .
           commit_message: "Build the City [bot]"
+          allow_empty_commit: true
+          force_setup: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

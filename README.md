@@ -87,6 +87,10 @@
 </div>
 
 ### 📊 Weekly Coding Activity
+
+<!--START_SECTION:wakatime-->
+<!--END_SECTION:wakatime-->
+
 ---
 
 ## ☕ Fun Facts

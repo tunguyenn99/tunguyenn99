@@ -33,5 +33,5 @@ jobs:
           
           # Bot configuration
           COMMIT_MESSAGE: "Update WakaTime Stats [bot] [skip ci]"
-          COMMIT_NAME: "github-actions[bot]"
-          COMMIT_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
+          COMMITTER_NAME: "github-actions[bot]"
+          COMMITTER_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
