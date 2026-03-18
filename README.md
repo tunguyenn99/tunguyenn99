@@ -89,6 +89,13 @@
 ### 📊 Weekly Coding Activity
 
 <!--START_SECTION:wakatime-->
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:wakatime-->
 
 ---
