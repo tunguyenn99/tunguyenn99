@@ -83,7 +83,7 @@
   </table>
   
   <h3>🏙️ My Contribution Cityscape</h3>
-  <img src="https://raw.githubusercontent.com/tunguyenn99/tunguyenn99/output/github-isometric-calendar.svg" width="770px" />
+  <img src="https://raw.githubusercontent.com/tunguyenn99/tunguyenn99/main/github-isometric-calendar.svg" width="770px" />
 </div>
 
 ### 📊 Weekly Coding Activity
