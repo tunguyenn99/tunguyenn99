@@ -28,7 +28,7 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
           commit_message: "Build the City [bot]"
           allow_empty_commit: true
         env:
