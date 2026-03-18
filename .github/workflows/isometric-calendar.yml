@@ -22,13 +22,9 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year # Options: day, week, month, half-year, year
           filename: github-isometric-calendar.svg
-<<<<<<< HEAD
-
-=======
           config_output: svg 
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           
->>>>>>> fix: stop auto commit
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
