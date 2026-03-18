@@ -2,35 +2,26 @@
   <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" width="100%" />
 </div>
 
-<h1 align="center">Hi there 👋, I'm Tu Nguyen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">Hi there 👋, I'm Tu Nguyen</h1>
 
 <p align="center">
-  <a href="mailto:tunguyen150599@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/tunguyenn99"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/tunguyenn99/data-portfolio"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=500&color=1AAB40&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+BI+Engineer+%7C+Analytics+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+Looker+Studio;Turning+Raw+Data+Into+Actionable+Insights"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=500&color=1AAB40&width=800&lines=Data+Analyst+%7C+BI+Engineer+%7C+Analytics+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+Looker+Studio;Always+Learning+and+Exploring+Interesting+Things"/>
+  <a href="mailto:tunguyen150599@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tunguyenn99"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/tunguyenn99/data-portfolio"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🔍 About Me
+🎯 **Data-driven professional** with a focus on **eCommerce & Retail**. I specialize in building robust data pipelines and crafting stories that drive business decisions.
 
-🎯 I'm a data-driven professional passionate about turning **raw data into customer insights** and actionable strategies.  
-🛒 Specialized in **eCommerce, Sales, and Retail**, I use data to analyze **customer behavior**, optimize **customer journeys**, and support **business decision-making**.  
-💬 Strong believer in the power of storytelling through data.
-
----
-
-## 💼 What I Work On
-
-- 🧭 Customer journey analysis & behavior segmentation  
-- 🧪 A/B testing & conversion optimization  
-- 📊 Interactive dashboards & business reports  
-- 🔄 Automating data pipelines with **Apache Airflow**  
-- 💡 Delivering insights from large-scale datasets
+* 🧭 **Focus:** Customer journey analysis & behavior segmentation.
+* 🧪 **Optimization:** A/B testing & conversion rate optimization.
+* 🔄 **Engineering:** Automating ELT/ETL workflows with **Modern Data Stack**.
 
 ---
 
@@ -77,25 +68,34 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Productivity & Stats
 
-![](https://github-readme-stats.vercel.app/api?username=tunguyenn99&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tunguyenn99&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tunguyenn99&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=tunguyenn99&theme=aura&hide_border=false&include_all_commits=true&count_private=true" width="380px" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunguyenn99&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="380px" />
+      </td>
+    </tr>
+  </table>
+  
+  <h3>🏙️ My Contribution Cityscape</h3>
+  <img src="https://raw.githubusercontent.com/tunguyenn99/tunguyenn99/output/github-isometric-calendar.svg" width="770px" />
+</div>
 
+### 📊 Weekly Coding Activity
 ---
 
 ## ☕ Fun Facts
-
-- 📊 I enjoy messy datasets — because cleaning and exploring data is part of the fun!
-- 🧃 Tea-fueled mornings lead to better dashboards.
-- 🐢 Motto: *"Slow is smooth. Smooth is fast."*
+* 📊 I enjoy messy datasets — cleaning them is my meditation.
+* 🧃 Tea-fueled mornings lead to better dashboards.
+* 🐢 Motto: *"Slow is smooth. Smooth is fast."*
 
 ---
 
-## 📫 Contact Me
-
-```yaml
-email: tunguyen150599@gmail.com
-linkedin: linkedin.com/in/tunguyenn99
-portfolio: github.com/tunguyenn99/data-portfolio
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1AAB40&height=100&section=footer" width="100%"/>
+</p>
