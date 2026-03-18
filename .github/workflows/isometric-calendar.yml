@@ -20,16 +20,19 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year # Options: day, week, month, half-year, year
-          filename: dist/github-isometric-calendar.svg
-          output_action: none
-          
+          plugin_isocalendar_duration: full-year
+          # SỬA Ở ĐÂY: Đặt tên file đơn giản
+          filename: github-isometric-calendar.svg
+          output_action: none 
+
       - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: .
+          # SỬA Ở ĐÂY: Lấy file ở ngay thư mục gốc của máy ảo
+          build_dir: . 
           commit_message: "Build the City [bot]"
           allow_empty_commit: true
+          jekyll: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
