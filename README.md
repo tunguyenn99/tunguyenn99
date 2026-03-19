@@ -2,69 +2,63 @@
   <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" width="100%" />
 </div>
 
-<h1 align="center">Hi there 👋, I'm Tu Nguyen</h1>
+<h1 align="center">🚀 Decoding Data with Tu Nguyen</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=500&color=1AAB40&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+BI+Engineer+%7C+Analytics+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+Looker+Studio;Turning+Raw+Data+Into+Actionable+Insights"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=500&color=FFFFFF&center=true&vCenter=true&width=800&lines=Senior+Data+Analyst+%7C+Analytics+Engineer+%7C+BI+Developer;Engineering+the+Truth+Behind+Every+Transaction;Python+%7C+SQL+%7C+dbt+%7C+Airflow+%7C+Modern+Data+Stack;Scaling+Omnichannel+Intelligence+for+Retail+%26+FinTech"/>
 </p>
 
 <p align="center">
-  <a href="mailto:tunguyen150599@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/tunguyenn99"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/tunguyenn99/data-portfolio"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:tunguyen150599@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tunguyenn99"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/tunguyenn99/data-portfolio"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🔍 About Me
-🎯 **Data-driven professional** with a focus on **eCommerce & Retail**. I specialize in building robust data pipelines and crafting stories that drive business decisions.
+## 🔍 The "Data Journey" So Far
 
-* 🧭 **Focus:** Customer journey analysis & behavior segmentation.
-* 🧪 **Optimization:** A/B testing & conversion rate optimization.
-* 🔄 **Engineering:** Automating ELT/ETL workflows with **Modern Data Stack**.
+> **"Turning data into a competitive advantage isn't just about code; it's about context."**
+
+I specialize in architecting **Single Sources of Truth (SSOT)** for complex eCommerce and FinTech ecosystems. My mission is to bridge the chasm between fragmented raw events and executive-level strategy by building high-velocity Data Marts and OLAP Cubes that fuel growth. 
+
+* 🧭 **Strategic Intelligence:** I decipher the customer journey through granular behavior tracking and predictive modeling to mitigate risk and safeguard digital ecosystems. 
+* 🧪 **Growth Catalyst:** I empower leadership with high-performance visibility into marketing ROI, sales health, and inventory optimization to turn insights into profit. 
+* 🔄 **Modern Engineering:** I design and deploy scalable, automated ELT/ETL pipelines using the **Modern Data Stack** to unify complex, omnichannel data streams. 
+
+---
+
+## 💼 Experience
+
+  * **Senior Data Analyst** @ [TNEX](https://www.tnex.com.vn/) | *September 2025 - Present*
+  * **Data Analytics Engineer** @ [UpBase](https://upbase.asia/) | *January 2026 - Present*
+  * **Analytics Engineer** @ [HV HOLDINGS](https://hvgroup.com.vn/) | *February 2026 - Present*
+  * **Founder** @ [Xóm Data](https://www.facebook.com/xomdata) | *April 2025 - Present*
+  * **Data Analyst** @ [VNPAY](https://vnpay.vn/) | *April 2023 - September 2025*
+  * **Project Management Officer** @ [Shopee](https://shopee.vn/) | *November 2021 - April 2023*
 
 ---
 
 ## 🛠️ My Tech Stack
 
-### 🧑‍💻 Query & Programming Languages
-- **Query Languages**: `SQL`, `KQL`, `MQL`, `JQL`
-- **Programming**: `Python`
-- **Web Basic Knowledge**: `HTML`, `CSS`
+### 🧑‍💻 Programming & Query Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=postgresql&logoColor=white) ![KQL](https://img.shields.io/badge/KQL-008AD7?style=flat&logo=azure-data-explorer&logoColor=white) ![MQL](https://img.shields.io/badge/MQL-47A248?style=flat&logo=mongodb&logoColor=white) ![JQL](https://img.shields.io/badge/JQL-0052CC?style=flat&logo=atlassian&logoColor=white)  
 
-### ⚙️ Data Engineering & Workflow
-- **Data processing**: `Apache Spark`
-- **ELT Layer**: `DBT`, `DLT`
-- **Orchestration**: `Apache Airflow`, `Astronomer Cosmos`, `Dagster`, `Kestra`, `Mage`
-- **Data Ingestion**: `Airbyte`, `Fivetran`
-- **Automation & Scraping**: `Selenium`, `BeautifulSoup`
+### 📥 Data Ingestion & Collection (DE/AE focus)
+![Airbyte](https://img.shields.io/badge/Airbyte-6131F3?style=flat&logo=airbyte&logoColor=white) ![Fivetran](https://img.shields.io/badge/Fivetran-326DE6?style=flat&logo=fivetran&logoColor=white) ![DLT](https://img.shields.io/badge/DLT-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-000000?style=flat&logo=python&logoColor=white)
 
-### 📊 Business Intelligence & Visualization
-- `Power BI`: Power BI Desktop, Power BI Services, Power BI Report Server, Power BI Embed
-- `Looker Studio`
-- `Apache Superset`
-- `Metabase`
+### 🔄 Transformation & Orchestration (AE focus)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white) ![Astronomer](https://img.shields.io/badge/Astronomer-FE4A49?style=flat&logo=astronomer&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white) ![Dagster](https://img.shields.io/badge/Dagster-251E3E?style=flat&logo=dagster&logoColor=white) ![Kestra](https://img.shields.io/badge/Kestra-000000?style=flat&logo=kestra&logoColor=white) ![Mage](https://img.shields.io/badge/Mage-8A2BE2?style=flat&logo=magic&logoColor=white)
 
-### 🛢️ Databases & Data Platforms
-- **SQL-based**: `Oracle`, `SQL Server`, `PostgreSQL`, `Presto`, `Trino`, `MySQL`, `SingleStoreDB`, `Google BigQuery`, `Redshift`
-- **NoSQL**: `MongoDB`
-- **Platform**: `GCP`, `Supabase`, `Azure`, `Snowflakes`, `Databricks`, `AWS`
+### 🛢️ Data Platforms & Storage
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-6699FF?style=flat&logo=google-bigquery&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-### 🧠 Collaboration & Project Management
-- `Jira`, `Confluence`, `Trello`, `Notion`
+### 📊 BI, Analytics & Visualization (DA/BI focus)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=black) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Apache Superset](https://img.shields.io/badge/Apache_Superset-0073B7?style=flat&logo=apache-superset&logoColor=white) ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white) ![GA4](https://img.shields.io/badge/GA4-E37400?style=flat&logo=google-analytics&logoColor=white) ![SmartLook](https://img.shields.io/badge/SmartLook-FFAB00?style=flat&logo=smartlook&logoColor=white)
 
-### 🖌️ Design & Documentation Tools
-- `Figma`, `DBDocs`, `Draw.io`, `Miro`
-
-### 🧾 Office Productivity
-- **Microsoft Office**: `Excel`, `Word`, `PowerPoint`, `VBA`  
-- **Google Workspace**: `Google Sheets`, `Google Docs`, `Slides`, `Jamboard`  
-- **Web Analytics**: `GA4` , `SmartLook`
-
-### 🔧 Others
-- `VS Code`, `PyCharm`, `Jupyter`, `Cloud9`
-- `Navicat`, `DBeaver`
-- `Visual Studio`
+### 🧠 Collaboration & Tools
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) 
 
 ---
 
@@ -86,27 +80,22 @@
   <img src="https://raw.githubusercontent.com/tunguyenn99/tunguyenn99/main/github-isometric-calendar.svg" width="770px" />
 </div>
 
-### 📊 Weekly Coding Activity
+---
 
-<!--START_SECTION:wakatime-->
+### 🔍 SELECT * FROM weekly_progress
 
-```txt
-Total Time: 0 secs
+<!--START_SECTION:waka-->
 
-No activity tracked
-```
-
-<!--END_SECTION:wakatime-->
+<!--END_SECTION:waka-->
 
 ---
 
-## ☕ Fun Facts
-* 📊 I enjoy messy datasets — cleaning them is my meditation.
-* 🧃 Tea-fueled mornings lead to better dashboards.
-* 🐢 Motto: *"Slow is smooth. Smooth is fast."*
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1AAB40&height=100&section=footer" width="100%"/>
-</p>
+### 🧩 Fun Facts about Me
+```json
+{
+  "status": "Open for Networking",
+  "hobbies": ["Data Storytelling", "Automating Everything", "Modern Data Stack"],
+  "favorite_stack": ["dbt", "Airflow", "Power BI"],
+  "coffee_conversion_rate": "1 cup ➔ 1000 lines of code",
+  "fun_fact": "Started with Chemistry, now bonding with Data Points"
+}
