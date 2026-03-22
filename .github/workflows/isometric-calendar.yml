@@ -11,9 +11,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
       - name: Generate Isometric View
         uses: lowlighter/metrics@latest
         with:
@@ -22,14 +19,5 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           filename: github-isometric-calendar.svg
-          output_action: none
-
-      - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: . 
-          commit_message: "Build the City [bot]"
-          allow_empty_commit: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: output
