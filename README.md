@@ -33,9 +33,18 @@ I specialize in architecting **Single Sources of Truth (SSOT)** for complex eCom
   * **Senior Data Analyst** @ [TNEX](https://www.tnex.com.vn/) | *September 2025 - Present*
   * **Data Analytics Engineer** @ [UpBase](https://upbase.asia/) | *January 2026 - Present*
   * **Analytics Engineer** @ [HV HOLDINGS](https://hvgroup.com.vn/) | *February 2026 - Present*
-  * **Founder** @ [Xóm Data](https://www.facebook.com/xomdata) | *April 2025 - Present*
-  * **Data Analyst** @ [VNPAY](https://vnpay.vn/) | *April 2023 - September 2025*
+  * **Co-Owner** @ [Xóm Data](https://www.facebook.com/groups/xomdata/) | *April 2025 - Present*
+  * **Data Instructor** @ [MindX Technology School](https://mindx.edu.vn/) | *May 2023 - Present*
+  * **Advisor** @ [AlphaSights](https://www.alphasights.com/) | *April 2023 - Present*
+  * **Data Curriculum Designer** @ [MindX Technology School](https://mindx.edu.vn/) | *February 2025 - December 2025*
+  * **Business Intelligence Developer** @ [Cloud Ace Vietnam](https://vn.cloud-ace.com/) | *December 2025 - February 2026*
+  * **Advisor** @ [Arches](https://arches-global.com/) | *February 2025 - February 2026*
+  * **Middle Data Analyst** @ [VNPAY](https://vnpay.vn/) | *April 2023 - September 2025*
+  * **Business Intelligence Developer** @ [FIXMA](https://fixma.vn/) | *September 2024 - August 2025*
+  * **Business Intelligence Analyst** @ [VietCleaning](https://www.google.com/search?q=https://vietcleaning.vn/) | *January 2025 - May 2025*
+  * **Outsource Data Analyst ** @ [BraveBits](https://bravebits.co/) | *March 2024 - July 2024*
   * **Project Management Officer** @ [Shopee](https://shopee.vn/) | *November 2021 - April 2023*
+  * **Consultant Network Operator** @ [Ministry of Planning and Investment, Vietnam](https://www.mpi.gov.vn/) | *October 2020 - November 2021*
 
 ---
 
