@@ -97,7 +97,7 @@ I specialize in architecting **Single Sources of Truth (SSOT)** for complex eCom
 
 ```txt
 SQL        1 hr 34 mins          █████████████████████▓░░░   86.49 %
-YAML       10 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
+YAML       10 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
 Markdown   3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
 ```
 
