@@ -96,9 +96,8 @@ I specialize in architecting **Single Sources of Truth (SSOT)** for complex eCom
 <!--START_SECTION:waka-->
 
 ```txt
-SQL        2 hrs 18 mins         ██████████████████████▒░░   89.88 %
-YAML       11 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-Markdown   3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+SQL    3 hrs 54 mins         ████████████████████████▓   98.10 %
+YAML   4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->
