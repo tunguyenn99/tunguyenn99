@@ -238,9 +238,9 @@ flowchart LR
       </td>
       <!-- Cột phải: GitHub Stats trên, Top Languages dưới -->
       <td width="42%" align="center" style="border: none; padding: 10px;" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=tunguyenn99&theme=tokyonight&show_icons=true&include_all_commits=true&bg_color=0b0f19&title_color=06B6D4&text_color=e5e7eb&icon_color=8B5CF6&border_color=1f2937&hide_border=false" width="380" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=tunguyenn99&theme=tokyonight&show_icons=true&include_all_commits=true&bg_color=0b0f19&title_color=06B6D4&text_color=e5e7eb&icon_color=8B5CF6&border_color=1f2937&hide_border=false" width="380" alt="GitHub Stats" />
         <br /><br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunguyenn99&layout=compact&theme=tokyonight&bg_color=0b0f19&title_color=06B6D4&text_color=e5e7eb&icon_color=8B5CF6&border_color=1f2937&hide_border=false" width="380" alt="Top Languages" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tunguyenn99&layout=compact&theme=tokyonight&bg_color=0b0f19&title_color=06B6D4&text_color=e5e7eb&icon_color=8B5CF6&border_color=1f2937&hide_border=false" width="380" alt="Top Languages" />
       </td>
     </tr>
   </table>
