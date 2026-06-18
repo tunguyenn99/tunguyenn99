@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 140" width="100%" height="auto">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-grad-footer" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#070a13" />
+    </linearGradient>
+
+    <!-- Accent Gradients -->
+    <linearGradient id="accent-purple-footer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6" />
+      <stop offset="100%" stop-color="#EC4899" />
+    </linearGradient>
+    <linearGradient id="accent-cyan-footer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06B6D4" />
+      <stop offset="100%" stop-color="#3B82F6" />
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="grid-footer" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1f2937" stroke-width="0.5" opacity="0.6"/>
+    </pattern>
+
+    <!-- Glow Filter -->
+    <filter id="glow-footer" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="900" height="140" fill="url(#bg-grad-footer)" rx="16" />
+
+  <!-- Grid overlay -->
+  <rect width="900" height="140" fill="url(#grid-footer)" rx="16" />
+
+  <!-- Decorative Glowing Orbs -->
+  <circle cx="800" cy="70" r="80" fill="#8B5CF6" opacity="0.1" filter="url(#glow-footer)" />
+  <circle cx="100" cy="70" r="60" fill="#06B6D4" opacity="0.08" filter="url(#glow-footer)" />
+
+  <!-- Abstract Tech Line Art (Data Pipelines/Nodes) -->
+  <g opacity="0.2" stroke="#ffffff" stroke-width="1.5">
+    <path d="M 150,70 L 250,70 L 290,40 L 370,40" fill="none" stroke="url(#accent-cyan-footer)" stroke-width="2" />
+    <path d="M 530,70 L 610,70 L 650,100 L 750,100" fill="none" stroke="url(#accent-purple-footer)" stroke-width="2" />
+    <circle cx="150" cy="70" r="4" fill="#06B6D4" />
+    <circle cx="370" cy="40" r="4" fill="#3B82F6" />
+    <circle cx="750" cy="100" r="4" fill="#EC4899" />
+  </g>
+
+  <!-- Footer Content -->
+  <text x="450" y="65" font-family="'Inter', 'Segoe UI', -apple-system, sans-serif" font-weight="700" font-size="20" fill="#ffffff" text-anchor="middle" letter-spacing="0.5">
+    Thanks for visiting my portfolio!
+  </text>
+  <text x="450" y="95" font-family="'Inter', 'Segoe UI', -apple-system, sans-serif" font-weight="500" font-size="13" fill="url(#accent-cyan-footer)" text-anchor="middle" letter-spacing="1">
+    LET'S CONNECT &amp; BUILD THE FUTURE OF DATA
+  </text>
+</svg>

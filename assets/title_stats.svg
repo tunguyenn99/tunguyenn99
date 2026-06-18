@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 50" width="100%" height="auto">
+  <defs>
+    <linearGradient id="title-grad-stats" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6" />
+      <stop offset="100%" stop-color="#06B6D4" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="50" fill="#0b0f19" rx="8" />
+  <rect width="6" height="50" fill="url(#title-grad-stats)" rx="3" />
+  <text x="30" y="31" font-family="'Inter', 'Segoe UI', -apple-system, sans-serif" font-weight="700" font-size="18" fill="#ffffff" letter-spacing="0.5">
+    📈 ACTIVITY &amp; STATS
+  </text>
+</svg>
