@@ -189,7 +189,7 @@ flowchart LR
     <tr>
       <td><b>📊 BI &amp; Analytics</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black" alt="Power BI"/>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
         <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white" alt="Looker Studio"/>
         <img src="https://img.shields.io/badge/Apache_Superset-0073B7?style=flat-square&logo=apache-superset&logoColor=white" alt="Apache Superset"/>
         <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white" alt="Metabase"/>
