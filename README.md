@@ -266,11 +266,8 @@ ORDER BY time_spent DESC;
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         2 hrs 13 mins         ███████████████░░░░░░░░░░   59.38 %
-Markdown     1 hr 16 mins          ████████▓░░░░░░░░░░░░░░░░   34.19 %
-Bash         6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-Other        6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Git Config   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Other   7 mins                ████████████████████████▓   99.03 %
+Bash    0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
