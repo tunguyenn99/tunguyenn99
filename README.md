@@ -266,8 +266,7 @@ ORDER BY time_spent DESC;
 <!--START_SECTION:waka-->
 
 ```txt
-Other   7 mins                ████████████████████████▓   99.03 %
-Bash    0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
