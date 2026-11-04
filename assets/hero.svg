@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="340" viewBox="0 0 900 340" fill="none" role="img" aria-label="Tu Nguyen — Senior Analytics Engineer">
+<title>Tu Nguyen — Senior Analytics Engineer</title>
+<style>
+.blink{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{fill-opacity:0}}
+.pulse{animation:pulse 2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(1.5)}}
+.flow{stroke-dasharray:6 220;animation:flow 2.8s linear infinite}
+@keyframes flow{from{stroke-dashoffset:226}to{stroke-dashoffset:0}}
+.fade{opacity:0;animation:fade .8s ease-out forwards}
+@keyframes fade{to{opacity:1}}
+</style>
+
+<defs>
+  <pattern id="dots-hero" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="1" cy="1" r="1" fill="#334155" opacity="0.45"/>
+  </pattern>
+  <radialGradient id="g1-hero" cx="0.85" cy="0.1" r="0.6">
+    <stop offset="0" stop-color="#A78BFA" stop-opacity="0.16"/>
+    <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="g2-hero" cx="0.05" cy="1" r="0.6">
+    <stop offset="0" stop-color="#22D3EE" stop-opacity="0.10"/>
+    <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+  </radialGradient>
+  <clipPath id="clip-hero"><rect width="900" height="340" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#clip-hero)">
+  <rect width="900" height="340" fill="#0A0E1A"/>
+  <rect width="900" height="340" fill="url(#dots-hero)"/>
+  <rect width="900" height="340" fill="url(#g1-hero)"/>
+  <rect width="900" height="340" fill="url(#g2-hero)"/>
+</g>
+<rect x="0.5" y="0.5" width="899" height="339" rx="15.5" stroke="#1E293B"/>
+<g>
+  <circle cx="24" cy="22" r="5.5" fill="#FF5F57"/>
+  <circle cx="42" cy="22" r="5.5" fill="#FEBC2E"/>
+  <circle cx="60" cy="22" r="5.5" fill="#28C840"/>
+  <text x="450.0" y="26" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#64748B">tunguyenn99@data-platform: ~</text>
+  <text x="876" y="26" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#64748B">main ●</text>
+  <line x1="0" y1="44" x2="900" y2="44" stroke="#1E293B"/>
+</g>
+<defs>
+  <linearGradient id="name-grad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#FFFFFF"/>
+    <stop offset="0.55" stop-color="#C7D2FE"/>
+    <stop offset="1" stop-color="#22D3EE"/>
+  </linearGradient>
+</defs>
+<g class="fade">
+  <text x="48" y="90" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14"><tspan fill="#34D399">❯</tspan><tspan fill="#CBD5E1" dx="8">whoami</tspan></text>
+  <text x="46" y="152" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, Helvetica, Arial, sans-serif" font-weight="800" font-size="58" letter-spacing="-1.5" fill="url(#name-grad)">Tu Nguyen</text>
+  <text x="48" y="206" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="600" fill="#64748B">&gt;</text>
+  
+  <clipPath id="type-0"><rect x="68.7" y="186" width="0" height="28">
+    <animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.0875;0.2;0.225;1" values="0.0;261.2;261.2;0.0;0.0"/>
+  </rect></clipPath>
+  <text clip-path="url(#type-0)" x="68.7" y="206" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="600" fill="#22D3EE">Senior Analytics Engineer</text>
+  <rect y="190" width="9" height="20" fill="#22D3EE" class="blink" opacity="0">
+    <animate attributeName="x" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.0875;0.2;0.225;1" values="70.7;331.9;331.9;70.7;70.7"/>
+    <animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.225;1" values="1;0;0"/>
+  </rect>
+  <clipPath id="type-1"><rect x="68.7" y="186" width="0" height="28">
+    <animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.25;0.3375;0.45;0.475;1" values="0.0;0.0;344.2;344.2;0.0;0.0"/>
+  </rect></clipPath>
+  <text clip-path="url(#type-1)" x="68.7" y="206" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="600" fill="#A78BFA">dbt · Redshift · Airflow · Python</text>
+  <rect y="190" width="9" height="20" fill="#A78BFA" class="blink" opacity="0">
+    <animate attributeName="x" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.25;0.3375;0.45;0.475;1" values="70.7;70.7;414.9;414.9;70.7;70.7"/>
+    <animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.25;0.475;1" values="0;1;0;0"/>
+  </rect>
+  <clipPath id="type-2"><rect x="68.7" y="186" width="0" height="28">
+    <animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.5;0.5875;0.7;0.725;1" values="0.0;0.0;354.6;354.6;0.0;0.0"/>
+  </rect></clipPath>
+  <text clip-path="url(#type-2)" x="68.7" y="206" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="600" fill="#F472B6">The truth behind every transaction</text>
+  <rect y="190" width="9" height="20" fill="#F472B6" class="blink" opacity="0">
+    <animate attributeName="x" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.5;0.5875;0.7;0.725;1" values="70.7;70.7;425.3;425.3;70.7;70.7"/>
+    <animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5;0.725;1" values="0;1;0;0"/>
+  </rect>
+  <clipPath id="type-3"><rect x="68.7" y="186" width="0" height="28">
+    <animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.75;0.8375;0.95;0.975;1" values="0.0;0.0;344.2;344.2;0.0;0.0"/>
+  </rect></clipPath>
+  <text clip-path="url(#type-3)" x="68.7" y="206" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="600" fill="#34D399">Founder of Xóm Data · 104K+ reach</text>
+  <rect y="190" width="9" height="20" fill="#34D399" class="blink" opacity="0">
+    <animate attributeName="x" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.75;0.8375;0.95;0.975;1" values="70.7;70.7;414.9;414.9;70.7;70.7"/>
+    <animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.75;0.975;1" values="0;1;0;0"/>
+  </rect>
+  <text x="48" y="244" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, Helvetica, Arial, sans-serif" font-size="14.5" fill="#94A3B8">5+ years across e-commerce, fintech &amp; banking — building</text>
+  <text x="48" y="266" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, Helvetica, Arial, sans-serif" font-size="14.5" fill="#94A3B8">governed data platforms and teaching others to do the same.</text>
+  <rect x="48" y="284" width="160" height="26" rx="13" fill="#34D399" fill-opacity="0.10" stroke="#34D399" stroke-opacity="0.45"/><circle cx="62" cy="297" r="3.5" fill="#34D399" class="pulse"/><text x="72" y="301.5" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#34D399">Senior AE @ GPBank</text><rect x="218" y="284" width="85" height="26" rx="13" fill="#131A2B" stroke="#1E293B"/><text x="229" y="301.5" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#FB923C">Hanoi, VN</text><rect x="311" y="284" width="92" height="26" rx="13" fill="#131A2B" stroke="#1E293B"/><text x="322" y="301.5" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#F472B6">E-commerce</text><rect x="412" y="284" width="71" height="26" rx="13" fill="#131A2B" stroke="#1E293B"/><text x="423" y="301.5" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#A78BFA">FinTech</text><rect x="491" y="284" width="71" height="26" rx="13" fill="#131A2B" stroke="#1E293B"/><text x="502" y="301.5" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#22D3EE">Banking</text>
+</g>
+<line x1="516" y1="68" x2="516" y2="306" stroke="#1E293B" stroke-dasharray="3 5"/>
+<g class="fade" style="animation-delay:.3s"><path id="e0" d="M652,104 C660.0,104 660.0,124 668,124" stroke="#334155" stroke-width="1.4"/><path d="M652,104 C660.0,104 660.0,124 668,124" stroke="#60A5FA" stroke-width="1.4" class="flow" style="animation-delay:0.00s" opacity="0.55"/><circle r="2.6" fill="#60A5FA"><animateMotion dur="2.4s" begin="0.0s" repeatCount="indefinite"><mpath href="#e0"/></animateMotion></circle><path id="e1" d="M652,216 C660.0,216 660.0,124 668,124" stroke="#334155" stroke-width="1.4"/><path d="M652,216 C660.0,216 660.0,124 668,124" stroke="#60A5FA" stroke-width="1.4" class="flow" style="animation-delay:0.35s" opacity="0.55"/><circle r="2.6" fill="#60A5FA"><animateMotion dur="2.4s" begin="0.3s" repeatCount="indefinite"><mpath href="#e1"/></animateMotion></circle><path id="e2" d="M652,160 C660.0,160 660.0,196 668,196" stroke="#334155" stroke-width="1.4"/><path d="M652,160 C660.0,160 660.0,196 668,196" stroke="#60A5FA" stroke-width="1.4" class="flow" style="animation-delay:0.70s" opacity="0.55"/><circle r="2.6" fill="#60A5FA"><animateMotion dur="2.4s" begin="0.6s" repeatCount="indefinite"><mpath href="#e2"/></animateMotion></circle><path id="e3" d="M652,216 C660.0,216 660.0,196 668,196" stroke="#334155" stroke-width="1.4"/><path d="M652,216 C660.0,216 660.0,196 668,196" stroke="#60A5FA" stroke-width="1.4" class="flow" style="animation-delay:1.05s" opacity="0.55"/><circle r="2.6" fill="#60A5FA"><animateMotion dur="2.4s" begin="0.9s" repeatCount="indefinite"><mpath href="#e3"/></animateMotion></circle><path id="e4" d="M754,124 C764.0,124 764.0,124 774,124" stroke="#334155" stroke-width="1.4"/><path d="M754,124 C764.0,124 764.0,124 774,124" stroke="#34D399" stroke-width="1.4" class="flow" style="animation-delay:1.40s" opacity="0.55"/><circle r="2.6" fill="#34D399"><animateMotion dur="2.4s" begin="1.2s" repeatCount="indefinite"><mpath href="#e4"/></animateMotion></circle><path id="e5" d="M754,196 C764.0,196 764.0,124 774,124" stroke="#334155" stroke-width="1.4"/><path d="M754,196 C764.0,196 764.0,124 774,124" stroke="#34D399" stroke-width="1.4" class="flow" style="animation-delay:1.75s" opacity="0.55"/><circle r="2.6" fill="#34D399"><animateMotion dur="2.4s" begin="1.5s" repeatCount="indefinite"><mpath href="#e5"/></animateMotion></circle><path id="e6" d="M754,196 C764.0,196 764.0,196 774,196" stroke="#334155" stroke-width="1.4"/><path d="M754,196 C764.0,196 764.0,196 774,196" stroke="#34D399" stroke-width="1.4" class="flow" style="animation-delay:2.10s" opacity="0.55"/><circle r="2.6" fill="#34D399"><animateMotion dur="2.4s" begin="1.8s" repeatCount="indefinite"><mpath href="#e6"/></animateMotion></circle><path id="e7" d="M754,124 C764.0,124 764.0,196 774,196" stroke="#334155" stroke-width="1.4"/><path d="M754,124 C764.0,124 764.0,196 774,196" stroke="#34D399" stroke-width="1.4" class="flow" style="animation-delay:2.45s" opacity="0.55"/><circle r="2.6" fill="#34D399"><animateMotion dur="2.4s" begin="2.1s" repeatCount="indefinite"><mpath href="#e7"/></animateMotion></circle><rect x="548" y="91" width="104" height="26" rx="7" fill="#131A2B" stroke="#64748B" stroke-opacity="0.55"/><circle cx="559" cy="104" r="3" fill="#64748B"/><text x="568" y="108" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#CBD5E1">src_pos</text><rect x="548" y="147" width="104" height="26" rx="7" fill="#131A2B" stroke="#64748B" stroke-opacity="0.55"/><circle cx="559" cy="160" r="3" fill="#64748B"/><text x="568" y="164" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#CBD5E1">src_core_bank</text><rect x="548" y="203" width="104" height="26" rx="7" fill="#131A2B" stroke="#64748B" stroke-opacity="0.55"/><circle cx="559" cy="216" r="3" fill="#64748B"/><text x="568" y="220" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#CBD5E1">src_ecom</text><rect x="668" y="111" width="86" height="26" rx="7" fill="#131A2B" stroke="#60A5FA" stroke-opacity="0.55"/><circle cx="679" cy="124" r="3" fill="#60A5FA"/><text x="688" y="128" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#CBD5E1">stg_orders</text><rect x="668" y="183" width="86" height="26" rx="7" fill="#131A2B" stroke="#60A5FA" stroke-opacity="0.55"/><circle cx="679" cy="196" r="3" fill="#60A5FA"/><text x="688" y="200" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#CBD5E1">stg_txns</text><rect x="774" y="111" width="98" height="26" rx="7" fill="#131A2B" stroke="#34D399" stroke-opacity="0.55"/><circle cx="785" cy="124" r="3" fill="#34D399"/><text x="794" y="128" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#CBD5E1">fct_revenue</text><rect x="774" y="183" width="98" height="26" rx="7" fill="#131A2B" stroke="#34D399" stroke-opacity="0.55"/><circle cx="785" cy="196" r="3" fill="#34D399"/><text x="794" y="200" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#CBD5E1">dim_customer</text><text x="548" y="76" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" letter-spacing="1.5" fill="#64748B">SOURCES</text><text x="668" y="76" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" letter-spacing="1.5" fill="#64748B">STAGING</text><text x="774" y="76" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" letter-spacing="1.5" fill="#64748B">MARTS</text><g font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5"><circle cx="553" cy="262" r="3.5" fill="#34D399" class="pulse"/><text x="564" y="266" fill="#64748B">dbt build</text><text x="632" y="266" fill="#34D399">PASS</text><text x="666" y="266" fill="#64748B">· lineage healthy · tests green</text></g></g>
+
+</svg>

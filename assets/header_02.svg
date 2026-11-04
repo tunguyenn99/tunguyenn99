@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64" fill="none" role="img" aria-label="02 · Impact">
+<title>02 · Impact</title>
+<style>
+.pkt{animation:run 3.6s cubic-bezier(.5,0,.5,1) infinite}
+@keyframes run{0%{transform:translateX(0);opacity:0}10%{opacity:1}90%{opacity:1}100%{transform:translateX(448px);opacity:0}}
+</style>
+
+<defs>
+  <linearGradient id="ln-h02" gradientUnits="userSpaceOnUse" x1="432" y1="0" x2="884" y2="0">
+    <stop offset="0" stop-color="#60A5FA" stop-opacity="0.8"/>
+    <stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<rect x="8" y="16" width="48" height="32" rx="9" fill="#60A5FA" fill-opacity="0.12" stroke="#60A5FA" stroke-opacity="0.5"/>
+<text x="32" y="37" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-weight="700" font-size="14" fill="#60A5FA">02</text>
+<text x="72" y="40" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="22" letter-spacing="-0.3" fill="#60A5FA">Impact</text>
+<text x="165" y="39" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8B98AD">$ SELECT metric, value FROM impact</text>
+<line x1="432" y1="32" x2="884" y2="32" stroke="url(#ln-h02)" stroke-width="1.5"/>
+<circle class="pkt" cx="434" cy="32" r="3" fill="#60A5FA"/>
+
+</svg>

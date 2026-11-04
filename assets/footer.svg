@@ -1,58 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 140" width="100%" height="auto">
-  <defs>
-    <!-- Background Gradient -->
-    <linearGradient id="bg-grad-footer" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0b0f19" />
-      <stop offset="50%" stop-color="#111827" />
-      <stop offset="100%" stop-color="#070a13" />
-    </linearGradient>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170" fill="none" role="img" aria-label="Thanks for stopping by">
+<title>Thanks for stopping by</title>
+<style>
+.blink{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.wave{animation:wave 6s linear infinite}
+@keyframes wave{to{transform:translateX(-300px)}}
+</style>
 
-    <!-- Accent Gradients -->
-    <linearGradient id="accent-purple-footer" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#8B5CF6" />
-      <stop offset="100%" stop-color="#EC4899" />
-    </linearGradient>
-    <linearGradient id="accent-cyan-footer" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#06B6D4" />
-      <stop offset="100%" stop-color="#3B82F6" />
-    </linearGradient>
+<defs>
+  <pattern id="dots-foot" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="1" cy="1" r="1" fill="#334155" opacity="0.45"/>
+  </pattern>
+  <radialGradient id="g1-foot" cx="0.85" cy="0.1" r="0.6">
+    <stop offset="0" stop-color="#A78BFA" stop-opacity="0.16"/>
+    <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="g2-foot" cx="0.05" cy="1" r="0.6">
+    <stop offset="0" stop-color="#22D3EE" stop-opacity="0.10"/>
+    <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+  </radialGradient>
+  <clipPath id="clip-foot"><rect width="900" height="170" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#clip-foot)">
+  <rect width="900" height="170" fill="#0A0E1A"/>
+  <rect width="900" height="170" fill="url(#dots-foot)"/>
+  <rect width="900" height="170" fill="url(#g1-foot)"/>
+  <rect width="900" height="170" fill="url(#g2-foot)"/>
+</g>
+<rect x="0.5" y="0.5" width="899" height="169" rx="15.5" stroke="#1E293B"/>
+<defs>
+  <linearGradient id="wv" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
+    <stop offset="0.3" stop-color="#22D3EE"/>
+    <stop offset="0.7" stop-color="#A78BFA"/>
+    <stop offset="1" stop-color="#F472B6" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="fc"><rect x="1" y="0" width="898" height="169" rx="15"/></clipPath>
+</defs>
+<text x="450.0" y="64" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, Helvetica, Arial, sans-serif" font-weight="800" font-size="26" letter-spacing="-0.5" fill="#E2E8F0">Thanks for stopping by.</text>
+<text x="444.0" y="96" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14"><tspan fill="#34D399">❯</tspan><tspan fill="#22D3EE" dx="8">let's build data people can trust</tspan></text>
+<rect x="618.0" y="84" width="8" height="15" fill="#22D3EE" class="blink"/>
+<g clip-path="url(#fc)" opacity="0.7">
+  <g class="wave"><polyline points="0,136.0 25,140.5 50,143.8 75,145.0 100,143.8 125,140.5 150,136.0 175,131.5 200,128.2 225,127.0 250,128.2 275,131.5 300,136.1 325,140.6 350,143.8 375,145.0 400,143.8 425,140.4 450,135.9 475,131.4 500,128.2 525,127.0 550,128.3 575,131.6 600,136.1 625,140.6 650,143.9 675,145.0 700,143.7 725,140.4 750,135.9 775,131.4 800,128.1 825,127.0 850,128.3 875,131.6 900,136.2 925,140.6 950,143.9 975,145.0 1000,143.7 1025,140.3 1050,135.8 1075,131.3 1100,128.1 1125,127.0 1150,128.3 1175,131.7 1200,136.2 1225,140.7 1250,143.9 1275,145.0 1300,143.7 1325,140.3 1350,135.8 1375,131.3 1400,128.1 1425,127.0 1450,128.3 1475,131.7 1500,136.3" stroke="url(#wv)" stroke-width="1.6" fill="none"/></g>
+</g>
+<text x="450.0" y="158" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#64748B">— EOF —</text>
 
-    <!-- Grid Pattern -->
-    <pattern id="grid-footer" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1f2937" stroke-width="0.5" opacity="0.6"/>
-    </pattern>
-
-    <!-- Glow Filter -->
-    <filter id="glow-footer" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="8" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
-  </defs>
-
-  <!-- Background Base -->
-  <rect width="900" height="140" fill="url(#bg-grad-footer)" rx="16" />
-
-  <!-- Grid overlay -->
-  <rect width="900" height="140" fill="url(#grid-footer)" rx="16" />
-
-  <!-- Decorative Glowing Orbs -->
-  <circle cx="800" cy="70" r="80" fill="#8B5CF6" opacity="0.1" filter="url(#glow-footer)" />
-  <circle cx="100" cy="70" r="60" fill="#06B6D4" opacity="0.08" filter="url(#glow-footer)" />
-
-  <!-- Abstract Tech Line Art (Data Pipelines/Nodes) -->
-  <g opacity="0.2" stroke="#ffffff" stroke-width="1.5">
-    <path d="M 150,70 L 250,70 L 290,40 L 370,40" fill="none" stroke="url(#accent-cyan-footer)" stroke-width="2" />
-    <path d="M 530,70 L 610,70 L 650,100 L 750,100" fill="none" stroke="url(#accent-purple-footer)" stroke-width="2" />
-    <circle cx="150" cy="70" r="4" fill="#06B6D4" />
-    <circle cx="370" cy="40" r="4" fill="#3B82F6" />
-    <circle cx="750" cy="100" r="4" fill="#EC4899" />
-  </g>
-
-  <!-- Footer Content -->
-  <text x="450" y="65" font-family="'Inter', 'Segoe UI', -apple-system, sans-serif" font-weight="700" font-size="20" fill="#ffffff" text-anchor="middle" letter-spacing="0.5">
-    Thanks for visiting my portfolio!
-  </text>
-  <text x="450" y="95" font-family="'Inter', 'Segoe UI', -apple-system, sans-serif" font-weight="500" font-size="13" fill="url(#accent-cyan-footer)" text-anchor="middle" letter-spacing="1">
-    LET'S CONNECT &amp; BUILD THE FUTURE OF DATA
-  </text>
 </svg>
